@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kamlesh-prajapat)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:kamlesh.prajapat@email.com)
 
-![Portfolio Preview](https://via.placeholder.com/800x400/06d6a0/ffffff?text=Portfolio+Preview)
+![Portfolio Preview](https://kamlesh-67.github.io/portfolio/)
 
 </div>
 
