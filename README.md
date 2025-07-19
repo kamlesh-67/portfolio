@@ -1,98 +1,126 @@
 <div align="center">
+🚀 Kamlesh Prajapat
+Full Stack Java Web Developer | Spring Boot Specialist | Enterprise Solutions Architect
+[](https://yourhttps://img.shieldsshields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail//komarev.com/ghpvc/?username=ka
 
-# 🚀 Kamlesh Prajapat - Portfolio Website
+Passionate Full Stack Java Developer with 2.5 years of experience building enterprise-level applications in the retail logistics domain. Based in Jaipur, Rajasthan, I specialize in crafting robust and scalable web applications with modern technologies.
 
-### Full Stack Java Web Developer | Spring Boot Specialist | Enterprise Solutions Architect
+My journey began with curiosity and evolved into expertise through hands-on experience, where I've developed comprehensive solutions that streamline business operations and deliver tangible impact. I'm always eager to expand my skillset and currently learning Python while exploring modern web development frameworks.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-06d6a0?style=for-the-badge&logo=vercel)](https://kamlesh-prajapat.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kamlesh-prajapat)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:kamlesh.prajapat@email.com)
+java
+public class KamleshPrajapat {
+    private String role = "Full Stack Java Web Developer";
+    private String location = "Jaipur, Rajasthan, India";
+    private double experience = 2.5;
+    private String[] currentlyLearning = {"Python", "Modern Web Frameworks"};
+    
+    public String getMotivation() {
+        return "Turning ideas into scalable solutions, one line of code at a time!";
+    }
+}
+🛠️ Tech Stack & Skills
+<div align="center">
+Backend Technologies
+![Java](https://img.shields.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logoio/badge/Spring%20Security-6DB33F?style=![HTML5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css.io/badge/JavaScript-F7DF1E?style=](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&**
+![Liferay DXP](https://img.shields.io/badge/e/M**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoimg.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor Stack Java Developer** | Retail Logistics
+Duration: 1.5+ Years | Location: Jaipur, Rajasthan
 
-[![Portfolio Preview](./screenshot.png)](https://kamlesh-67.github.io/portfolio/)
+🚀 Built and maintained enterprise applications and portals to streamline business operations
 
+👥 Actively involved in the complete software development lifecycle, collaborating with cross-functional teams
 
+🏗️ Specialized in developing robust, scalable web applications for enterprise-grade solutions
+
+📊 Worked extensively with warehouse management systems and retail logistics processes
+
+🚀 Featured Projects
+🏢 Enterprise Document Management Portal
+Tech Stack: Java, Spring Boot, Liferay DXP 7.4, MySQL
+
+Enterprise portal to manage all inbound and outbound warehouse documents. Features secure upload, digital approvals, and instant retrieval, streamlining documentation workflows and reducing paperwork.
+
+Key Features:
+
+🔐 Secure document upload and storage
+
+✅ Digital approval workflows
+
+🔍 Instant document retrieval system
+
+📋 Compliance and audit trails
+
+🛒 Multi-Vendor E-Commerce Platform
+Tech Stack: Java, Spring Boot, JavaScript, Bootstrap
+
+Robust multi-vendor e-commerce platform with advanced order, inventory, and vendor management. Real-time integration with warehouse management ensures seamless product tracking and updates.
+
+Key Features:
+
+👥 Multi-vendor management system
+
+📦 Real-time inventory tracking
+
+🚚 Warehouse integration
+
+📊 Advanced analytics dashboard
+
+🏭 Gate Entry Management System
+Tech Stack: Java, Spring Boot, MySQL, JavaScript
+
+Real-time dashboard for tracking, approving, and auditing gate entries and exits. Helps strengthen warehouse security and maintains detailed logs for compliance and analytics.
+
+Key Features:
+
+⏱️ Real-time tracking system
+
+🛡️ Enhanced security protocols
+
+📋 Compliance reporting
+
+📈 Analytics and insights
+
+📊 GitHub Stats
+<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlesh-67&show_icons=true&theme=radical&anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlesh-67&layout=compact&ttps://streakurrent Focus
+
+🐍 Learning Python for expanding backend capabilities
+
+🚀 Exploring Modern Web Frameworks for enhanced frontend development
+
+🏗️ Building Personal Projects for continuous skill improvement
+
+🌐 Contributing to Open Source projects in the Java ecosystem
+
+📈 Staying Updated with emerging technologies and industry trends
+
+🌟 What I Bring to the Table
+<div align="center">
+💪 Strengths	🎯 Specializations	🚀 Values
+Problem-solving mindset	Enterprise applications	Innovation
+Full-stack expertise	Retail logistics domain	Commitment
+Team collaboration	Scalable architectures	Continuous learning
+Real-world experience	Modern web technologies	Quality delivery
 </div>
+📈 Professional Metrics
+<div align="center">
+![Experience](https://img.shields.io/badge/Experience-2.5%20Years-success?style=n](https://img.shields.io!
 
----
-
-## 🎯 About This Project
-
-Welcome to my personal portfolio website! This is a modern, responsive, and interactive showcase of my journey as a Full Stack Java Web Developer. Built with vanilla HTML, CSS, and JavaScript, this portfolio demonstrates my skills in creating engaging web experiences without relying on heavy frameworks.
-
-### 🌟 What Makes This Portfolio Special?
-
-- **🎨 Modern Design**: Clean, minimalist interface with creative animations
-- **🌙 Dark/Light Theme**: Seamless theme switching with user preference storage
-- **📱 Fully Responsive**: Optimized for all devices and screen sizes
-- **⚡ Performance Focused**: Fast loading times with optimized assets
-- **♿ Accessible**: Built with accessibility best practices in mind
-- **🔍 SEO Optimized**: Structured for search engine visibility
-
----
-
-## 🛠️ Tech Stack
+I'm passionate about creating exceptional web applications and ready to contribute to your team's success! Whether you have a project in mind or want to discuss opportunities, I'd love to hear from you.
 
 <div align="center">
+📍 Based in Jaipur, Rajasthan, India
 
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+📧 Email: kamlesh.prajapat@email.com
 
-### Design & Animation
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)
-![CSS Animations](https://img.shields.io/badge/CSS%20Animations-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+📱 Phone: +91 98765 43210
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+⏰ Available: Mon - Fri, 9AM - 6PM IST
+
+[![Portfolio](https://img.shields.ioio/badge/📧
+
+⭐ Don't forget to star my repositories if you find them useful!
+
+"Turning ideas into scalable solutions, one commit at a time!"
 
 </div>
-
----
-
-## ✨ Features
-
-### 🎭 Interactive Elements
-- **Smooth Scroll Animations**: Intersection Observer API for performance-optimized animations
-- **Particle Background**: Dynamic particle system in hero section
-- **Skill Progress Bars**: Animated skill visualization
-- **Project Modals**: Detailed project information in elegant popups
-- **Theme Toggle**: Smooth dark/light mode switching
-
-### 📊 Sections Overview
-```
-🏠 Hero Section          → Eye-catching introduction with animated elements
-👨‍💻 About Me             → Professional background and personal story
-🛠️ Skills & Technologies → Interactive skill bars with categories
-💼 Work Experience       → Timeline-based career progression
-🚀 Projects Showcase     → Featured projects with detailed modals
-💼 Hire Me Section       → Call-to-action with availability status
-📧 Newsletter Signup     → Email subscription with validation
-📞 Contact Form          → Professional contact form with validation
-🔗 Footer               → Quick links and social media connections
-```
-
-### 🎨 Design Highlights
-- **Color Palette**: Primary `#06d6a0` with complementary colors
-- **Typography**: Inter & JetBrains Mono from Google Fonts
-- **Animations**: CSS keyframes with JavaScript triggers
-- **Responsive Grid**: CSS Grid and Flexbox for layouts
-- **Accessibility**: ARIA labels, keyboard navigation, screen reader support
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML/CSS/JS (for customization)
-
-### Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kamlesh-prajapat/portfolio.git
-   cd portfolio
